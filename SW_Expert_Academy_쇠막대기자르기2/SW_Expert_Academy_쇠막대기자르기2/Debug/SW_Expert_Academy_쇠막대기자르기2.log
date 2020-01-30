@@ -1,0 +1,5 @@
+﻿  소스.cpp
+c:\users\multicampus\source\repos\sw_expert_academy_쇠막대기자르기2\sw_expert_academy_쇠막대기자르기2\소스.cpp(23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\multicampus\source\repos\sw_expert_academy_쇠막대기자르기2\sw_expert_academy_쇠막대기자르기2\소스.cpp(56): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\multicampus\source\repos\sw_expert_academy_쇠막대기자르기2\sw_expert_academy_쇠막대기자르기2\소스.cpp(76): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  SW_Expert_Academy_쇠막대기자르기2.vcxproj -> C:\Users\multicampus\source\repos\SW_Expert_Academy_쇠막대기자르기2\Debug\SW_Expert_Academy_쇠막대기자르기2.exe
