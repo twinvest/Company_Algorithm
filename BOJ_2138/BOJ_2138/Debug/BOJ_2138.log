@@ -1,0 +1,5 @@
+﻿  소스.cpp
+c:\users\multicampus\source\repos\boj_2138\boj_2138\소스.cpp(11): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\multicampus\source\repos\boj_2138\boj_2138\소스.cpp(41): warning C4101: 'arr' :참조되지 않은 지역 변수입니다.
+c:\users\multicampus\source\repos\boj_2138\boj_2138\소스.cpp(36): warning C4715: 'dfs': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  BOJ_2138.vcxproj -> C:\Users\multicampus\source\repos\BOJ_2138\Debug\BOJ_2138.exe

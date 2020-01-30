@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\multicampus\source\repos\점프사방\점프사방\소스.cpp(58): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\multicampus\source\repos\점프사방\점프사방\소스.cpp(116): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  점프사방.vcxproj -> C:\Users\multicampus\source\repos\점프사방\Debug\점프사방.exe
